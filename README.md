@@ -4,11 +4,12 @@ Valador follows the Agile Scrum methodology for design and development.  During 
 b. assembled a multidisciplinary and collaborative team that includes at a minimum two of the labor categories limited to the Development Pool labor categories to develop the prototype as quoted in Attachment C. The quoter’s proposed mix of labor categories and level of effort for its working prototype, as reflected in Attachment C, shall be evaluated to assess the quoter’s understanding and capability to supply agile delivery services 
 Valador assembled a team which included the following Valador employees:
 
-Labor Category	GSA Labor Category	Name
-Technical Architect	Senior Systems Engineer	Ben Franzini
-Front End Web Developer	Developer	Philip Stroh, Paulo Ordoveza
-Back End Web Developer	Developer	David White
-DevOps Engineer	Software Engineer	David White
+|Labor Category|GSA Labor Category|Name|
+|---|---|---|
+|Technical Architect|Senior Systems Engineer|Ben Franzini|
+|Front End Web Developer|Developer|Philip Stroh, Paulo Ordoveza|
+|Back End Web Developer|Developer|David White|
+|DevOps Engineer|Software Engineer|David White|
 
 Each of these individuals has different skillsets and varying years of experience. The resource estimates for each team member were calculated, factored into the project budget, documented in the project PMP and approved by Valador’s CEO to ensure availability throughout the project.
 Additionally, Valador set up workspace for the duration of the project in one of our conference rooms.  The room was equipped with four computers (each with two monitors), a projector, and a whiteboard.  For the majority of the Project the team worked in the conference room and held all Sprint related meetings in the same workspace.  This allowed problems to be solved quickly and developers to collaborate when they ran into a roadblock.  This was especially important for this Project given the short duration.  Mr. Franzini was working remotely from out of state so the team utilized Skype, Webex meetings, and teleconferences to included him in the collaborative working process. 
