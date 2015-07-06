@@ -1,9 +1,8 @@
-#(A) Assign A Leader
+###(A) Assign A Leader
 Valador follows the Agile Scrum methodology for design and development.  During the kick-off meeting for this Project, Valador assigned Kevin Sadeghian as the Product Owner, then worked to define the scope of the project based on the RFQ content.  Mr. Sadeghian is a Certified Scrum Product Owner (CSPO) and was provided with the authority and responsibility to complete the Project; and was held accountable for the quality and timeliness of the final prototype and accompanying artifacts.
 
-b. assembled a multidisciplinary and collaborative team that includes at a minimum two of the labor categories limited to the Development Pool labor categories to develop the prototype as quoted in Attachment C. The quoter’s proposed mix of labor categories and level of effort for its working prototype, as reflected in Attachment C, shall be evaluated to assess the quoter’s understanding and capability to supply agile delivery services 
+###(B) Multidisciplinary Team
 Valador assembled a team which included the following Valador employees:
-
 |Labor Category|GSA Labor Category|Name|
 |---|---|---|
 |Technical Architect|Senior Systems Engineer|Ben Franzini|
@@ -12,31 +11,29 @@ Valador assembled a team which included the following Valador employees:
 |DevOps Engineer|Software Engineer|David White|
 
 Each of these individuals has different skillsets and varying years of experience. The resource estimates for each team member were calculated, factored into the project budget, documented in the project PMP and approved by Valador’s CEO to ensure availability throughout the project.
+
 Additionally, Valador set up workspace for the duration of the project in one of our conference rooms.  The room was equipped with four computers (each with two monitors), a projector, and a whiteboard.  For the majority of the Project the team worked in the conference room and held all Sprint related meetings in the same workspace.  This allowed problems to be solved quickly and developers to collaborate when they ran into a roadblock.  This was especially important for this Project given the short duration.  Mr. Franzini was working remotely from out of state so the team utilized Skype, Webex meetings, and teleconferences to included him in the collaborative working process. 
 
-c. used at least five modern and open-source technologies, regardless of architectural layer (frontend, backend etc)
-
+###(C) Technologies
 Valador used the following open-source technologies in the development of the prototype:
-•	Bootstrap
-•	PHP
-•	Google Charts
-•	Ajax
-•	jQuery
-•	MySQL
-•	Java
-•	Restlet
-•	Eclipse
-•	Git
-•	Jenkins
-•	JSP
-•	Tomcat
+*Bootstrap
+*PHP
+*Google Charts
+*Ajax
+*jQuery
+*MySQL
+*Java
+*Restlet
+*Eclipse
+*Git
+*Jenkins
+*JSP
+*Tomcat
 
-
-
-d. deployed the prototype on an Infrastructure as a Service (IaaS) or Platform as a Service (PaaS) provider, and indicated which provider was used
+###(D) Infrastructure as a Service (IaaS)
 Valador deployed the prototype on Amazon Web Services Infrastructure as a Service (IaaS).  We created used EC2 servers, configured to our needs to host the development, testing, and production platforms. 
 
-e. wrote unit tests for their code
+###(E) Unit Testing
 Unit tests were created to test application modules and compiled into test suite which was integrated into the CI environment.  Unit test configurations are stored in a config file which is used to easily change test parameters and/or expected results when applicable.  All builds are automatically run through the test suite by the CI tool and marked as pass or fail.
 
 f. set up or used a continuous integration system to automate the running of tests and continuously deployed their code to their IaaS or PaaS provider
